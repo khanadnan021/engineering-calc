@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro - Scientific & Engineering Workstation",
+  "description": "Advanced scientific and engineering calculator featuring formula evaluation, SI engineering notation, base-N programmer logic, matrix operations, complex numbers, 2D calculus graphing, and engineering solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
